@@ -1,0 +1,15 @@
+# 🔐 Environment and credentials
+.env
+app/data_ingestion/credentials.json
+app/data_ingestion/token_calendar.pickle
+app/data_ingestion/token_gmail.pickle
+
+# 🗃️ Local databases and text data
+assistant.db
+app/whatsapp_chat.txt
+
+# 🧠 Chroma DB
+chroma_db/
+
+# 🐍 Python virtual environment
+venv/
