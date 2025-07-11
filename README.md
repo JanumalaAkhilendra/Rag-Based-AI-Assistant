@@ -90,7 +90,7 @@ curl -X POST "http://127.0.0.1:8000/chat" -H "Content-Type: application/json" -d
 
 ## Workflow Diagram
 
-```mermaid
+```
 graph TD
   subgraph Data Sources
     G[Gmail]
